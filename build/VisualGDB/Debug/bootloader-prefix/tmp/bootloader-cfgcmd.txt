@@ -1,0 +1,1 @@
+cmd='C:/Users/Oleh/AppData/Local/VisualGDB/CMake/bin/cmake.exe;-DSDKCONFIG=C:/Users/Oleh/Desktop/KX122/sdkconfig;-DIDF_PATH=C:/SysGCC/esp32/esp-idf/v5.0;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=C:/SysGCC/esp32/esp-idf/v5.0/components/bootloader;-DPROJECT_SOURCE_DIR=C:/Users/Oleh/Desktop/KX122;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
